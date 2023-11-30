@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "158862585284",
+    "project_id": "melodymap-d2dbd",
+    "storage_bucket": "melodymap-d2dbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158862585284:android:51bc2e3668187119868891",
+        "android_client_info": {
+          "package_name": "com.example.melodymap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_tVXNtVxFx-nsdYv-wNoPPUjmnQDMGYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158862585284:android:3722ce0e05f7620a868891",
+        "android_client_info": {
+          "package_name": "com.melodymap.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_tVXNtVxFx-nsdYv-wNoPPUjmnQDMGYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
